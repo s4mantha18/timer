@@ -1,3 +1,3 @@
 <html>
-  <img src = "timer.png>
+  <img src = "timer.png">
 </html>
